@@ -1,0 +1,20 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-server": "node my-weather/server/server.js",
+    "start-client": "cd my-weather-client/client && yarn start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qw3eq/Weather-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qw3eq/Weather-App/issues"
+  },
+  "homepage": "https://github.com/qw3eq/Weather-App#readme"
+}
